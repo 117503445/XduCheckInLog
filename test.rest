@@ -1,0 +1,6 @@
+POST http://localhost/api/log HTTP/1.1
+
+{
+    "student_id":"18079100004",
+    "message":"success"
+}
